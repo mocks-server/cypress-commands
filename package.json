@@ -34,7 +34,7 @@
     "test-e2e:ci": "cd test-e2e && npm i && npm run apps:install && npm run test:ci"
   },
   "dependencies": {
-    "@data-provider/core": "1.7.3",
+    "@data-provider/core": "1.8.0",
     "@mocks-server/admin-api-client": "1.0.2"
   },
   "devDependencies": {
