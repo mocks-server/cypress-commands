@@ -50,7 +50,7 @@
     "sinon": "8.0.4"
   },
   "peerDependencies": {
-    "cypress": "^2.1.0 || ^3.0.0"
+    "cypress": "^3.8.3"
   },
   "lint-staged": {
     "test-e2e/app-data-provider/*.js": "eslint",
