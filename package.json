@@ -52,7 +52,7 @@
     "sinon": "11.1.2"
   },
   "peerDependencies": {
-    "cypress": "2.x || 3.x || 4.x || 5.x || 6.x || 7.x"
+    "cypress": "2.x || 3.x || 4.x || 5.x || 6.x || 7.x || 8.x"
   },
   "lint-staged": {
     "test-e2e/app/*.js": "eslint",
