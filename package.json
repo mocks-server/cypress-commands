@@ -40,7 +40,7 @@
     "@mocks-server/admin-api-client": "4.0.0"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "7.16.3",
+    "@babel/eslint-parser": "7.16.5",
     "eslint": "8.4.1",
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-prettier": "4.0.0",
